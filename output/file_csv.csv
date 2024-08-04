@@ -1,0 +1,892 @@
+PassengerId,Survived,Name,Sex,Status
+1,0,"Braund, Mr. Owen Harris",male,Meninggal
+2,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,Selamat
+3,1,"Heikkinen, Miss. Laina",female,Selamat
+4,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,Selamat
+5,0,"Allen, Mr. William Henry",male,Meninggal
+6,0,"Moran, Mr. James",male,Meninggal
+7,0,"McCarthy, Mr. Timothy J",male,Meninggal
+8,0,"Palsson, Master. Gosta Leonard",male,Meninggal
+9,1,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,Selamat
+10,1,"Nasser, Mrs. Nicholas (Adele Achem)",female,Selamat
+11,1,"Sandstrom, Miss. Marguerite Rut",female,Selamat
+12,1,"Bonnell, Miss. Elizabeth",female,Selamat
+13,0,"Saundercock, Mr. William Henry",male,Meninggal
+14,0,"Andersson, Mr. Anders Johan",male,Meninggal
+15,0,"Vestrom, Miss. Hulda Amanda Adolfina",female,Meninggal
+16,1,"Hewlett, Mrs. (Mary D Kingcome) ",female,Selamat
+17,0,"Rice, Master. Eugene",male,Meninggal
+18,1,"Williams, Mr. Charles Eugene",male,Selamat
+19,0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,Meninggal
+20,1,"Masselmani, Mrs. Fatima",female,Selamat
+21,0,"Fynney, Mr. Joseph J",male,Meninggal
+22,1,"Beesley, Mr. Lawrence",male,Selamat
+23,1,"McGowan, Miss. Anna ""Annie""",female,Selamat
+24,1,"Sloper, Mr. William Thompson",male,Selamat
+25,0,"Palsson, Miss. Torborg Danira",female,Meninggal
+26,1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,Selamat
+27,0,"Emir, Mr. Farred Chehab",male,Meninggal
+28,0,"Fortune, Mr. Charles Alexander",male,Meninggal
+29,1,"O'Dwyer, Miss. Ellen ""Nellie""",female,Selamat
+30,0,"Todoroff, Mr. Lalio",male,Meninggal
+31,0,"Uruchurtu, Don. Manuel E",male,Meninggal
+32,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,Selamat
+33,1,"Glynn, Miss. Mary Agatha",female,Selamat
+34,0,"Wheadon, Mr. Edward H",male,Meninggal
+35,0,"Meyer, Mr. Edgar Joseph",male,Meninggal
+36,0,"Holverson, Mr. Alexander Oskar",male,Meninggal
+37,1,"Mamee, Mr. Hanna",male,Selamat
+38,0,"Cann, Mr. Ernest Charles",male,Meninggal
+39,0,"Vander Planke, Miss. Augusta Maria",female,Meninggal
+40,1,"Nicola-Yarred, Miss. Jamila",female,Selamat
+41,0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,Meninggal
+42,0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,Meninggal
+43,0,"Kraeff, Mr. Theodor",male,Meninggal
+44,1,"Laroche, Miss. Simonne Marie Anne Andree",female,Selamat
+45,1,"Devaney, Miss. Margaret Delia",female,Selamat
+46,0,"Rogers, Mr. William John",male,Meninggal
+47,0,"Lennon, Mr. Denis",male,Meninggal
+48,1,"O'Driscoll, Miss. Bridget",female,Selamat
+49,0,"Samaan, Mr. Youssef",male,Meninggal
+50,0,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,Meninggal
+51,0,"Panula, Master. Juha Niilo",male,Meninggal
+52,0,"Nosworthy, Mr. Richard Cater",male,Meninggal
+53,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,Selamat
+54,1,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,Selamat
+55,0,"Ostby, Mr. Engelhart Cornelius",male,Meninggal
+56,1,"Woolner, Mr. Hugh",male,Selamat
+57,1,"Rugg, Miss. Emily",female,Selamat
+58,0,"Novel, Mr. Mansouer",male,Meninggal
+59,1,"West, Miss. Constance Mirium",female,Selamat
+60,0,"Goodwin, Master. William Frederick",male,Meninggal
+61,0,"Sirayanian, Mr. Orsen",male,Meninggal
+62,1,"Icard, Miss. Amelie",female,Selamat
+63,0,"Harris, Mr. Henry Birkhardt",male,Meninggal
+64,0,"Skoog, Master. Harald",male,Meninggal
+65,0,"Stewart, Mr. Albert A",male,Meninggal
+66,1,"Moubarek, Master. Gerios",male,Selamat
+67,1,"Nye, Mrs. (Elizabeth Ramell)",female,Selamat
+68,0,"Crease, Mr. Ernest James",male,Meninggal
+69,1,"Andersson, Miss. Erna Alexandra",female,Selamat
+70,0,"Kink, Mr. Vincenz",male,Meninggal
+71,0,"Jenkin, Mr. Stephen Curnow",male,Meninggal
+72,0,"Goodwin, Miss. Lillian Amy",female,Meninggal
+73,0,"Hood, Mr. Ambrose Jr",male,Meninggal
+74,0,"Chronopoulos, Mr. Apostolos",male,Meninggal
+75,1,"Bing, Mr. Lee",male,Selamat
+76,0,"Moen, Mr. Sigurd Hansen",male,Meninggal
+77,0,"Staneff, Mr. Ivan",male,Meninggal
+78,0,"Moutal, Mr. Rahamin Haim",male,Meninggal
+79,1,"Caldwell, Master. Alden Gates",male,Selamat
+80,1,"Dowdell, Miss. Elizabeth",female,Selamat
+81,0,"Waelens, Mr. Achille",male,Meninggal
+82,1,"Sheerlinck, Mr. Jan Baptist",male,Selamat
+83,1,"McDermott, Miss. Brigdet Delia",female,Selamat
+84,0,"Carrau, Mr. Francisco M",male,Meninggal
+85,1,"Ilett, Miss. Bertha",female,Selamat
+86,1,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,Selamat
+87,0,"Ford, Mr. William Neal",male,Meninggal
+88,0,"Slocovski, Mr. Selman Francis",male,Meninggal
+89,1,"Fortune, Miss. Mabel Helen",female,Selamat
+90,0,"Celotti, Mr. Francesco",male,Meninggal
+91,0,"Christmann, Mr. Emil",male,Meninggal
+92,0,"Andreasson, Mr. Paul Edvin",male,Meninggal
+93,0,"Chaffee, Mr. Herbert Fuller",male,Meninggal
+94,0,"Dean, Mr. Bertram Frank",male,Meninggal
+95,0,"Coxon, Mr. Daniel",male,Meninggal
+96,0,"Shorney, Mr. Charles Joseph",male,Meninggal
+97,0,"Goldschmidt, Mr. George B",male,Meninggal
+98,1,"Greenfield, Mr. William Bertram",male,Selamat
+99,1,"Doling, Mrs. John T (Ada Julia Bone)",female,Selamat
+100,0,"Kantor, Mr. Sinai",male,Meninggal
+101,0,"Petranec, Miss. Matilda",female,Meninggal
+102,0,"Petroff, Mr. Pastcho (""Pentcho"")",male,Meninggal
+103,0,"White, Mr. Richard Frasar",male,Meninggal
+104,0,"Johansson, Mr. Gustaf Joel",male,Meninggal
+105,0,"Gustafsson, Mr. Anders Vilhelm",male,Meninggal
+106,0,"Mionoff, Mr. Stoytcho",male,Meninggal
+107,1,"Salkjelsvik, Miss. Anna Kristine",female,Selamat
+108,1,"Moss, Mr. Albert Johan",male,Selamat
+109,0,"Rekic, Mr. Tido",male,Meninggal
+110,1,"Moran, Miss. Bertha",female,Selamat
+111,0,"Porter, Mr. Walter Chamberlain",male,Meninggal
+112,0,"Zabour, Miss. Hileni",female,Meninggal
+113,0,"Barton, Mr. David John",male,Meninggal
+114,0,"Jussila, Miss. Katriina",female,Meninggal
+115,0,"Attalah, Miss. Malake",female,Meninggal
+116,0,"Pekoniemi, Mr. Edvard",male,Meninggal
+117,0,"Connors, Mr. Patrick",male,Meninggal
+118,0,"Turpin, Mr. William John Robert",male,Meninggal
+119,0,"Baxter, Mr. Quigg Edmond",male,Meninggal
+120,0,"Andersson, Miss. Ellis Anna Maria",female,Meninggal
+121,0,"Hickman, Mr. Stanley George",male,Meninggal
+122,0,"Moore, Mr. Leonard Charles",male,Meninggal
+123,0,"Nasser, Mr. Nicholas",male,Meninggal
+124,1,"Webber, Miss. Susan",female,Selamat
+125,0,"White, Mr. Percival Wayland",male,Meninggal
+126,1,"Nicola-Yarred, Master. Elias",male,Selamat
+127,0,"McMahon, Mr. Martin",male,Meninggal
+128,1,"Madsen, Mr. Fridtjof Arne",male,Selamat
+129,1,"Peter, Miss. Anna",female,Selamat
+130,0,"Ekstrom, Mr. Johan",male,Meninggal
+131,0,"Drazenoic, Mr. Jozef",male,Meninggal
+132,0,"Coelho, Mr. Domingos Fernandeo",male,Meninggal
+133,0,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,Meninggal
+134,1,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,Selamat
+135,0,"Sobey, Mr. Samuel James Hayden",male,Meninggal
+136,0,"Richard, Mr. Emile",male,Meninggal
+137,1,"Newsom, Miss. Helen Monypeny",female,Selamat
+138,0,"Futrelle, Mr. Jacques Heath",male,Meninggal
+139,0,"Osen, Mr. Olaf Elon",male,Meninggal
+140,0,"Giglio, Mr. Victor",male,Meninggal
+141,0,"Boulos, Mrs. Joseph (Sultana)",female,Meninggal
+142,1,"Nysten, Miss. Anna Sofia",female,Selamat
+143,1,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,Selamat
+144,0,"Burke, Mr. Jeremiah",male,Meninggal
+145,0,"Andrew, Mr. Edgardo Samuel",male,Meninggal
+146,0,"Nicholls, Mr. Joseph Charles",male,Meninggal
+147,1,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,Selamat
+148,0,"Ford, Miss. Robina Maggie ""Ruby""",female,Meninggal
+149,0,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,Meninggal
+150,0,"Byles, Rev. Thomas Roussel Davids",male,Meninggal
+151,0,"Bateman, Rev. Robert James",male,Meninggal
+152,1,"Pears, Mrs. Thomas (Edith Wearne)",female,Selamat
+153,0,"Meo, Mr. Alfonzo",male,Meninggal
+154,0,"van Billiard, Mr. Austin Blyler",male,Meninggal
+155,0,"Olsen, Mr. Ole Martin",male,Meninggal
+156,0,"Williams, Mr. Charles Duane",male,Meninggal
+157,1,"Gilnagh, Miss. Katherine ""Katie""",female,Selamat
+158,0,"Corn, Mr. Harry",male,Meninggal
+159,0,"Smiljanic, Mr. Mile",male,Meninggal
+160,0,"Sage, Master. Thomas Henry",male,Meninggal
+161,0,"Cribb, Mr. John Hatfield",male,Meninggal
+162,1,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,Selamat
+163,0,"Bengtsson, Mr. John Viktor",male,Meninggal
+164,0,"Calic, Mr. Jovo",male,Meninggal
+165,0,"Panula, Master. Eino Viljami",male,Meninggal
+166,1,"Goldsmith, Master. Frank John William ""Frankie""",male,Selamat
+167,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,Selamat
+168,0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,Meninggal
+169,0,"Baumann, Mr. John D",male,Meninggal
+170,0,"Ling, Mr. Lee",male,Meninggal
+171,0,"Van der hoef, Mr. Wyckoff",male,Meninggal
+172,0,"Rice, Master. Arthur",male,Meninggal
+173,1,"Johnson, Miss. Eleanor Ileen",female,Selamat
+174,0,"Sivola, Mr. Antti Wilhelm",male,Meninggal
+175,0,"Smith, Mr. James Clinch",male,Meninggal
+176,0,"Klasen, Mr. Klas Albin",male,Meninggal
+177,0,"Lefebre, Master. Henry Forbes",male,Meninggal
+178,0,"Isham, Miss. Ann Elizabeth",female,Meninggal
+179,0,"Hale, Mr. Reginald",male,Meninggal
+180,0,"Leonard, Mr. Lionel",male,Meninggal
+181,0,"Sage, Miss. Constance Gladys",female,Meninggal
+182,0,"Pernot, Mr. Rene",male,Meninggal
+183,0,"Asplund, Master. Clarence Gustaf Hugo",male,Meninggal
+184,1,"Becker, Master. Richard F",male,Selamat
+185,1,"Kink-Heilmann, Miss. Luise Gretchen",female,Selamat
+186,0,"Rood, Mr. Hugh Roscoe",male,Meninggal
+187,1,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,Selamat
+188,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,Selamat
+189,0,"Bourke, Mr. John",male,Meninggal
+190,0,"Turcin, Mr. Stjepan",male,Meninggal
+191,1,"Pinsky, Mrs. (Rosa)",female,Selamat
+192,0,"Carbines, Mr. William",male,Meninggal
+193,1,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,Selamat
+194,1,"Navratil, Master. Michel M",male,Selamat
+195,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,Selamat
+196,1,"Lurette, Miss. Elise",female,Selamat
+197,0,"Mernagh, Mr. Robert",male,Meninggal
+198,0,"Olsen, Mr. Karl Siegwart Andreas",male,Meninggal
+199,1,"Madigan, Miss. Margaret ""Maggie""",female,Selamat
+200,0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,Meninggal
+201,0,"Vande Walle, Mr. Nestor Cyriel",male,Meninggal
+202,0,"Sage, Mr. Frederick",male,Meninggal
+203,0,"Johanson, Mr. Jakob Alfred",male,Meninggal
+204,0,"Youseff, Mr. Gerious",male,Meninggal
+205,1,"Cohen, Mr. Gurshon ""Gus""",male,Selamat
+206,0,"Strom, Miss. Telma Matilda",female,Meninggal
+207,0,"Backstrom, Mr. Karl Alfred",male,Meninggal
+208,1,"Albimona, Mr. Nassef Cassem",male,Selamat
+209,1,"Carr, Miss. Helen ""Ellen""",female,Selamat
+210,1,"Blank, Mr. Henry",male,Selamat
+211,0,"Ali, Mr. Ahmed",male,Meninggal
+212,1,"Cameron, Miss. Clear Annie",female,Selamat
+213,0,"Perkin, Mr. John Henry",male,Meninggal
+214,0,"Givard, Mr. Hans Kristensen",male,Meninggal
+215,0,"Kiernan, Mr. Philip",male,Meninggal
+216,1,"Newell, Miss. Madeleine",female,Selamat
+217,1,"Honkanen, Miss. Eliina",female,Selamat
+218,0,"Jacobsohn, Mr. Sidney Samuel",male,Meninggal
+219,1,"Bazzani, Miss. Albina",female,Selamat
+220,0,"Harris, Mr. Walter",male,Meninggal
+221,1,"Sunderland, Mr. Victor Francis",male,Selamat
+222,0,"Bracken, Mr. James H",male,Meninggal
+223,0,"Green, Mr. George Henry",male,Meninggal
+224,0,"Nenkoff, Mr. Christo",male,Meninggal
+225,1,"Hoyt, Mr. Frederick Maxfield",male,Selamat
+226,0,"Berglund, Mr. Karl Ivar Sven",male,Meninggal
+227,1,"Mellors, Mr. William John",male,Selamat
+228,0,"Lovell, Mr. John Hall (""Henry"")",male,Meninggal
+229,0,"Fahlstrom, Mr. Arne Jonas",male,Meninggal
+230,0,"Lefebre, Miss. Mathilde",female,Meninggal
+231,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,Selamat
+232,0,"Larsson, Mr. Bengt Edvin",male,Meninggal
+233,0,"Sjostedt, Mr. Ernst Adolf",male,Meninggal
+234,1,"Asplund, Miss. Lillian Gertrud",female,Selamat
+235,0,"Leyson, Mr. Robert William Norman",male,Meninggal
+236,0,"Harknett, Miss. Alice Phoebe",female,Meninggal
+237,0,"Hold, Mr. Stephen",male,Meninggal
+238,1,"Collyer, Miss. Marjorie ""Lottie""",female,Selamat
+239,0,"Pengelly, Mr. Frederick William",male,Meninggal
+240,0,"Hunt, Mr. George Henry",male,Meninggal
+241,0,"Zabour, Miss. Thamine",female,Meninggal
+242,1,"Murphy, Miss. Katherine ""Kate""",female,Selamat
+243,0,"Coleridge, Mr. Reginald Charles",male,Meninggal
+244,0,"Maenpaa, Mr. Matti Alexanteri",male,Meninggal
+245,0,"Attalah, Mr. Sleiman",male,Meninggal
+246,0,"Minahan, Dr. William Edward",male,Meninggal
+247,0,"Lindahl, Miss. Agda Thorilda Viktoria",female,Meninggal
+248,1,"Hamalainen, Mrs. William (Anna)",female,Selamat
+249,1,"Beckwith, Mr. Richard Leonard",male,Selamat
+250,0,"Carter, Rev. Ernest Courtenay",male,Meninggal
+251,0,"Reed, Mr. James George",male,Meninggal
+252,0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,Meninggal
+253,0,"Stead, Mr. William Thomas",male,Meninggal
+254,0,"Lobb, Mr. William Arthur",male,Meninggal
+255,0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,Meninggal
+256,1,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,Selamat
+257,1,"Thorne, Mrs. Gertrude Maybelle",female,Selamat
+258,1,"Cherry, Miss. Gladys",female,Selamat
+259,1,"Ward, Miss. Anna",female,Selamat
+260,1,"Parrish, Mrs. (Lutie Davis)",female,Selamat
+261,0,"Smith, Mr. Thomas",male,Meninggal
+262,1,"Asplund, Master. Edvin Rojj Felix",male,Selamat
+263,0,"Taussig, Mr. Emil",male,Meninggal
+264,0,"Harrison, Mr. William",male,Meninggal
+265,0,"Henry, Miss. Delia",female,Meninggal
+266,0,"Reeves, Mr. David",male,Meninggal
+267,0,"Panula, Mr. Ernesti Arvid",male,Meninggal
+268,1,"Persson, Mr. Ernst Ulrik",male,Selamat
+269,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,Selamat
+270,1,"Bissette, Miss. Amelia",female,Selamat
+271,0,"Cairns, Mr. Alexander",male,Meninggal
+272,1,"Tornquist, Mr. William Henry",male,Selamat
+273,1,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,Selamat
+274,0,"Natsch, Mr. Charles H",male,Meninggal
+275,1,"Healy, Miss. Hanora ""Nora""",female,Selamat
+276,1,"Andrews, Miss. Kornelia Theodosia",female,Selamat
+277,0,"Lindblom, Miss. Augusta Charlotta",female,Meninggal
+278,0,"Parkes, Mr. Francis ""Frank""",male,Meninggal
+279,0,"Rice, Master. Eric",male,Meninggal
+280,1,"Abbott, Mrs. Stanton (Rosa Hunt)",female,Selamat
+281,0,"Duane, Mr. Frank",male,Meninggal
+282,0,"Olsson, Mr. Nils Johan Goransson",male,Meninggal
+283,0,"de Pelsmaeker, Mr. Alfons",male,Meninggal
+284,1,"Dorking, Mr. Edward Arthur",male,Selamat
+285,0,"Smith, Mr. Richard William",male,Meninggal
+286,0,"Stankovic, Mr. Ivan",male,Meninggal
+287,1,"de Mulder, Mr. Theodore",male,Selamat
+288,0,"Naidenoff, Mr. Penko",male,Meninggal
+289,1,"Hosono, Mr. Masabumi",male,Selamat
+290,1,"Connolly, Miss. Kate",female,Selamat
+291,1,"Barber, Miss. Ellen ""Nellie""",female,Selamat
+292,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,Selamat
+293,0,"Levy, Mr. Rene Jacques",male,Meninggal
+294,0,"Haas, Miss. Aloisia",female,Meninggal
+295,0,"Mineff, Mr. Ivan",male,Meninggal
+296,0,"Lewy, Mr. Ervin G",male,Meninggal
+297,0,"Hanna, Mr. Mansour",male,Meninggal
+298,0,"Allison, Miss. Helen Loraine",female,Meninggal
+299,1,"Saalfeld, Mr. Adolphe",male,Selamat
+300,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,Selamat
+301,1,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,Selamat
+302,1,"McCoy, Mr. Bernard",male,Selamat
+303,0,"Johnson, Mr. William Cahoone Jr",male,Meninggal
+304,1,"Keane, Miss. Nora A",female,Selamat
+305,0,"Williams, Mr. Howard Hugh ""Harry""",male,Meninggal
+306,1,"Allison, Master. Hudson Trevor",male,Selamat
+307,1,"Fleming, Miss. Margaret",female,Selamat
+308,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,Selamat
+309,0,"Abelson, Mr. Samuel",male,Meninggal
+310,1,"Francatelli, Miss. Laura Mabel",female,Selamat
+311,1,"Hays, Miss. Margaret Bechstein",female,Selamat
+312,1,"Ryerson, Miss. Emily Borie",female,Selamat
+313,0,"Lahtinen, Mrs. William (Anna Sylfven)",female,Meninggal
+314,0,"Hendekovic, Mr. Ignjac",male,Meninggal
+315,0,"Hart, Mr. Benjamin",male,Meninggal
+316,1,"Nilsson, Miss. Helmina Josefina",female,Selamat
+317,1,"Kantor, Mrs. Sinai (Miriam Sternin)",female,Selamat
+318,0,"Moraweck, Dr. Ernest",male,Meninggal
+319,1,"Wick, Miss. Mary Natalie",female,Selamat
+320,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,Selamat
+321,0,"Dennis, Mr. Samuel",male,Meninggal
+322,0,"Danoff, Mr. Yoto",male,Meninggal
+323,1,"Slayter, Miss. Hilda Mary",female,Selamat
+324,1,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,Selamat
+325,0,"Sage, Mr. George John Jr",male,Meninggal
+326,1,"Young, Miss. Marie Grice",female,Selamat
+327,0,"Nysveen, Mr. Johan Hansen",male,Meninggal
+328,1,"Ball, Mrs. (Ada E Hall)",female,Selamat
+329,1,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,Selamat
+330,1,"Hippach, Miss. Jean Gertrude",female,Selamat
+331,1,"McCoy, Miss. Agnes",female,Selamat
+332,0,"Partner, Mr. Austen",male,Meninggal
+333,0,"Graham, Mr. George Edward",male,Meninggal
+334,0,"Vander Planke, Mr. Leo Edmondus",male,Meninggal
+335,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,Selamat
+336,0,"Denkoff, Mr. Mitto",male,Meninggal
+337,0,"Pears, Mr. Thomas Clinton",male,Meninggal
+338,1,"Burns, Miss. Elizabeth Margaret",female,Selamat
+339,1,"Dahl, Mr. Karl Edwart",male,Selamat
+340,0,"Blackwell, Mr. Stephen Weart",male,Meninggal
+341,1,"Navratil, Master. Edmond Roger",male,Selamat
+342,1,"Fortune, Miss. Alice Elizabeth",female,Selamat
+343,0,"Collander, Mr. Erik Gustaf",male,Meninggal
+344,0,"Sedgwick, Mr. Charles Frederick Waddington",male,Meninggal
+345,0,"Fox, Mr. Stanley Hubert",male,Meninggal
+346,1,"Brown, Miss. Amelia ""Mildred""",female,Selamat
+347,1,"Smith, Miss. Marion Elsie",female,Selamat
+348,1,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,Selamat
+349,1,"Coutts, Master. William Loch ""William""",male,Selamat
+350,0,"Dimic, Mr. Jovan",male,Meninggal
+351,0,"Odahl, Mr. Nils Martin",male,Meninggal
+352,0,"Williams-Lambert, Mr. Fletcher Fellows",male,Meninggal
+353,0,"Elias, Mr. Tannous",male,Meninggal
+354,0,"Arnold-Franchi, Mr. Josef",male,Meninggal
+355,0,"Yousif, Mr. Wazli",male,Meninggal
+356,0,"Vanden Steen, Mr. Leo Peter",male,Meninggal
+357,1,"Bowerman, Miss. Elsie Edith",female,Selamat
+358,0,"Funk, Miss. Annie Clemmer",female,Meninggal
+359,1,"McGovern, Miss. Mary",female,Selamat
+360,1,"Mockler, Miss. Helen Mary ""Ellie""",female,Selamat
+361,0,"Skoog, Mr. Wilhelm",male,Meninggal
+362,0,"del Carlo, Mr. Sebastiano",male,Meninggal
+363,0,"Barbara, Mrs. (Catherine David)",female,Meninggal
+364,0,"Asim, Mr. Adola",male,Meninggal
+365,0,"O'Brien, Mr. Thomas",male,Meninggal
+366,0,"Adahl, Mr. Mauritz Nils Martin",male,Meninggal
+367,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,Selamat
+368,1,"Moussa, Mrs. (Mantoura Boulos)",female,Selamat
+369,1,"Jermyn, Miss. Annie",female,Selamat
+370,1,"Aubart, Mme. Leontine Pauline",female,Selamat
+371,1,"Harder, Mr. George Achilles",male,Selamat
+372,0,"Wiklund, Mr. Jakob Alfred",male,Meninggal
+373,0,"Beavan, Mr. William Thomas",male,Meninggal
+374,0,"Ringhini, Mr. Sante",male,Meninggal
+375,0,"Palsson, Miss. Stina Viola",female,Meninggal
+376,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,Selamat
+377,1,"Landergren, Miss. Aurora Adelia",female,Selamat
+378,0,"Widener, Mr. Harry Elkins",male,Meninggal
+379,0,"Betros, Mr. Tannous",male,Meninggal
+380,0,"Gustafsson, Mr. Karl Gideon",male,Meninggal
+381,1,"Bidois, Miss. Rosalie",female,Selamat
+382,1,"Nakid, Miss. Maria (""Mary"")",female,Selamat
+383,0,"Tikkanen, Mr. Juho",male,Meninggal
+384,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,Selamat
+385,0,"Plotcharsky, Mr. Vasil",male,Meninggal
+386,0,"Davies, Mr. Charles Henry",male,Meninggal
+387,0,"Goodwin, Master. Sidney Leonard",male,Meninggal
+388,1,"Buss, Miss. Kate",female,Selamat
+389,0,"Sadlier, Mr. Matthew",male,Meninggal
+390,1,"Lehmann, Miss. Bertha",female,Selamat
+391,1,"Carter, Mr. William Ernest",male,Selamat
+392,1,"Jansson, Mr. Carl Olof",male,Selamat
+393,0,"Gustafsson, Mr. Johan Birger",male,Meninggal
+394,1,"Newell, Miss. Marjorie",female,Selamat
+395,1,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,Selamat
+396,0,"Johansson, Mr. Erik",male,Meninggal
+397,0,"Olsson, Miss. Elina",female,Meninggal
+398,0,"McKane, Mr. Peter David",male,Meninggal
+399,0,"Pain, Dr. Alfred",male,Meninggal
+400,1,"Trout, Mrs. William H (Jessie L)",female,Selamat
+401,1,"Niskanen, Mr. Juha",male,Selamat
+402,0,"Adams, Mr. John",male,Meninggal
+403,0,"Jussila, Miss. Mari Aina",female,Meninggal
+404,0,"Hakkarainen, Mr. Pekka Pietari",male,Meninggal
+405,0,"Oreskovic, Miss. Marija",female,Meninggal
+406,0,"Gale, Mr. Shadrach",male,Meninggal
+407,0,"Widegren, Mr. Carl/Charles Peter",male,Meninggal
+408,1,"Richards, Master. William Rowe",male,Selamat
+409,0,"Birkeland, Mr. Hans Martin Monsen",male,Meninggal
+410,0,"Lefebre, Miss. Ida",female,Meninggal
+411,0,"Sdycoff, Mr. Todor",male,Meninggal
+412,0,"Hart, Mr. Henry",male,Meninggal
+413,1,"Minahan, Miss. Daisy E",female,Selamat
+414,0,"Cunningham, Mr. Alfred Fleming",male,Meninggal
+415,1,"Sundman, Mr. Johan Julian",male,Selamat
+416,0,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,Meninggal
+417,1,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,Selamat
+418,1,"Silven, Miss. Lyyli Karoliina",female,Selamat
+419,0,"Matthews, Mr. William John",male,Meninggal
+420,0,"Van Impe, Miss. Catharina",female,Meninggal
+421,0,"Gheorgheff, Mr. Stanio",male,Meninggal
+422,0,"Charters, Mr. David",male,Meninggal
+423,0,"Zimmerman, Mr. Leo",male,Meninggal
+424,0,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,Meninggal
+425,0,"Rosblom, Mr. Viktor Richard",male,Meninggal
+426,0,"Wiseman, Mr. Phillippe",male,Meninggal
+427,1,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,Selamat
+428,1,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,Selamat
+429,0,"Flynn, Mr. James",male,Meninggal
+430,1,"Pickard, Mr. Berk (Berk Trembisky)",male,Selamat
+431,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,Selamat
+432,1,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,Selamat
+433,1,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,Selamat
+434,0,"Kallio, Mr. Nikolai Erland",male,Meninggal
+435,0,"Silvey, Mr. William Baird",male,Meninggal
+436,1,"Carter, Miss. Lucile Polk",female,Selamat
+437,0,"Ford, Miss. Doolina Margaret ""Daisy""",female,Meninggal
+438,1,"Richards, Mrs. Sidney (Emily Hocking)",female,Selamat
+439,0,"Fortune, Mr. Mark",male,Meninggal
+440,0,"Kvillner, Mr. Johan Henrik Johannesson",male,Meninggal
+441,1,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,Selamat
+442,0,"Hampe, Mr. Leon",male,Meninggal
+443,0,"Petterson, Mr. Johan Emil",male,Meninggal
+444,1,"Reynaldo, Ms. Encarnacion",female,Selamat
+445,1,"Johannesen-Bratthammer, Mr. Bernt",male,Selamat
+446,1,"Dodge, Master. Washington",male,Selamat
+447,1,"Mellinger, Miss. Madeleine Violet",female,Selamat
+448,1,"Seward, Mr. Frederic Kimber",male,Selamat
+449,1,"Baclini, Miss. Marie Catherine",female,Selamat
+450,1,"Peuchen, Major. Arthur Godfrey",male,Selamat
+451,0,"West, Mr. Edwy Arthur",male,Meninggal
+452,0,"Hagland, Mr. Ingvald Olai Olsen",male,Meninggal
+453,0,"Foreman, Mr. Benjamin Laventall",male,Meninggal
+454,1,"Goldenberg, Mr. Samuel L",male,Selamat
+455,0,"Peduzzi, Mr. Joseph",male,Meninggal
+456,1,"Jalsevac, Mr. Ivan",male,Selamat
+457,0,"Millet, Mr. Francis Davis",male,Meninggal
+458,1,"Kenyon, Mrs. Frederick R (Marion)",female,Selamat
+459,1,"Toomey, Miss. Ellen",female,Selamat
+460,0,"O'Connor, Mr. Maurice",male,Meninggal
+461,1,"Anderson, Mr. Harry",male,Selamat
+462,0,"Morley, Mr. William",male,Meninggal
+463,0,"Gee, Mr. Arthur H",male,Meninggal
+464,0,"Milling, Mr. Jacob Christian",male,Meninggal
+465,0,"Maisner, Mr. Simon",male,Meninggal
+466,0,"Goncalves, Mr. Manuel Estanslas",male,Meninggal
+467,0,"Campbell, Mr. William",male,Meninggal
+468,0,"Smart, Mr. John Montgomery",male,Meninggal
+469,0,"Scanlan, Mr. James",male,Meninggal
+470,1,"Baclini, Miss. Helene Barbara",female,Selamat
+471,0,"Keefe, Mr. Arthur",male,Meninggal
+472,0,"Cacic, Mr. Luka",male,Meninggal
+473,1,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,Selamat
+474,1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,Selamat
+475,0,"Strandberg, Miss. Ida Sofia",female,Meninggal
+476,0,"Clifford, Mr. George Quincy",male,Meninggal
+477,0,"Renouf, Mr. Peter Henry",male,Meninggal
+478,0,"Braund, Mr. Lewis Richard",male,Meninggal
+479,0,"Karlsson, Mr. Nils August",male,Meninggal
+480,1,"Hirvonen, Miss. Hildur E",female,Selamat
+481,0,"Goodwin, Master. Harold Victor",male,Meninggal
+482,0,"Frost, Mr. Anthony Wood ""Archie""",male,Meninggal
+483,0,"Rouse, Mr. Richard Henry",male,Meninggal
+484,1,"Turkula, Mrs. (Hedwig)",female,Selamat
+485,1,"Bishop, Mr. Dickinson H",male,Selamat
+486,0,"Lefebre, Miss. Jeannie",female,Meninggal
+487,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,Selamat
+488,0,"Kent, Mr. Edward Austin",male,Meninggal
+489,0,"Somerton, Mr. Francis William",male,Meninggal
+490,1,"Coutts, Master. Eden Leslie ""Neville""",male,Selamat
+491,0,"Hagland, Mr. Konrad Mathias Reiersen",male,Meninggal
+492,0,"Windelov, Mr. Einar",male,Meninggal
+493,0,"Molson, Mr. Harry Markland",male,Meninggal
+494,0,"Artagaveytia, Mr. Ramon",male,Meninggal
+495,0,"Stanley, Mr. Edward Roland",male,Meninggal
+496,0,"Yousseff, Mr. Gerious",male,Meninggal
+497,1,"Eustis, Miss. Elizabeth Mussey",female,Selamat
+498,0,"Shellard, Mr. Frederick William",male,Meninggal
+499,0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,Meninggal
+500,0,"Svensson, Mr. Olof",male,Meninggal
+501,0,"Calic, Mr. Petar",male,Meninggal
+502,0,"Canavan, Miss. Mary",female,Meninggal
+503,0,"O'Sullivan, Miss. Bridget Mary",female,Meninggal
+504,0,"Laitinen, Miss. Kristina Sofia",female,Meninggal
+505,1,"Maioni, Miss. Roberta",female,Selamat
+506,0,"Penasco y Castellana, Mr. Victor de Satode",male,Meninggal
+507,1,"Quick, Mrs. Frederick Charles (Jane Richards)",female,Selamat
+508,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,Selamat
+509,0,"Olsen, Mr. Henry Margido",male,Meninggal
+510,1,"Lang, Mr. Fang",male,Selamat
+511,1,"Daly, Mr. Eugene Patrick",male,Selamat
+512,0,"Webber, Mr. James",male,Meninggal
+513,1,"McGough, Mr. James Robert",male,Selamat
+514,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,Selamat
+515,0,"Coleff, Mr. Satio",male,Meninggal
+516,0,"Walker, Mr. William Anderson",male,Meninggal
+517,1,"Lemore, Mrs. (Amelia Milley)",female,Selamat
+518,0,"Ryan, Mr. Patrick",male,Meninggal
+519,1,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,Selamat
+520,0,"Pavlovic, Mr. Stefo",male,Meninggal
+521,1,"Perreault, Miss. Anne",female,Selamat
+522,0,"Vovk, Mr. Janko",male,Meninggal
+523,0,"Lahoud, Mr. Sarkis",male,Meninggal
+524,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,Selamat
+525,0,"Kassem, Mr. Fared",male,Meninggal
+526,0,"Farrell, Mr. James",male,Meninggal
+527,1,"Ridsdale, Miss. Lucy",female,Selamat
+528,0,"Farthing, Mr. John",male,Meninggal
+529,0,"Salonen, Mr. Johan Werner",male,Meninggal
+530,0,"Hocking, Mr. Richard George",male,Meninggal
+531,1,"Quick, Miss. Phyllis May",female,Selamat
+532,0,"Toufik, Mr. Nakli",male,Meninggal
+533,0,"Elias, Mr. Joseph Jr",male,Meninggal
+534,1,"Peter, Mrs. Catherine (Catherine Rizk)",female,Selamat
+535,0,"Cacic, Miss. Marija",female,Meninggal
+536,1,"Hart, Miss. Eva Miriam",female,Selamat
+537,0,"Butt, Major. Archibald Willingham",male,Meninggal
+538,1,"LeRoy, Miss. Bertha",female,Selamat
+539,0,"Risien, Mr. Samuel Beard",male,Meninggal
+540,1,"Frolicher, Miss. Hedwig Margaritha",female,Selamat
+541,1,"Crosby, Miss. Harriet R",female,Selamat
+542,0,"Andersson, Miss. Ingeborg Constanzia",female,Meninggal
+543,0,"Andersson, Miss. Sigrid Elisabeth",female,Meninggal
+544,1,"Beane, Mr. Edward",male,Selamat
+545,0,"Douglas, Mr. Walter Donald",male,Meninggal
+546,0,"Nicholson, Mr. Arthur Ernest",male,Meninggal
+547,1,"Beane, Mrs. Edward (Ethel Clarke)",female,Selamat
+548,1,"Padro y Manent, Mr. Julian",male,Selamat
+549,0,"Goldsmith, Mr. Frank John",male,Meninggal
+550,1,"Davies, Master. John Morgan Jr",male,Selamat
+551,1,"Thayer, Mr. John Borland Jr",male,Selamat
+552,0,"Sharp, Mr. Percival James R",male,Meninggal
+553,0,"O'Brien, Mr. Timothy",male,Meninggal
+554,1,"Leeni, Mr. Fahim (""Philip Zenni"")",male,Selamat
+555,1,"Ohman, Miss. Velin",female,Selamat
+556,0,"Wright, Mr. George",male,Meninggal
+557,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,Selamat
+558,0,"Robbins, Mr. Victor",male,Meninggal
+559,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,Selamat
+560,1,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,Selamat
+561,0,"Morrow, Mr. Thomas Rowan",male,Meninggal
+562,0,"Sivic, Mr. Husein",male,Meninggal
+563,0,"Norman, Mr. Robert Douglas",male,Meninggal
+564,0,"Simmons, Mr. John",male,Meninggal
+565,0,"Meanwell, Miss. (Marion Ogden)",female,Meninggal
+566,0,"Davies, Mr. Alfred J",male,Meninggal
+567,0,"Stoytcheff, Mr. Ilia",male,Meninggal
+568,0,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,Meninggal
+569,0,"Doharr, Mr. Tannous",male,Meninggal
+570,1,"Jonsson, Mr. Carl",male,Selamat
+571,1,"Harris, Mr. George",male,Selamat
+572,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,Selamat
+573,1,"Flynn, Mr. John Irwin (""Irving"")",male,Selamat
+574,1,"Kelly, Miss. Mary",female,Selamat
+575,0,"Rush, Mr. Alfred George John",male,Meninggal
+576,0,"Patchett, Mr. George",male,Meninggal
+577,1,"Garside, Miss. Ethel",female,Selamat
+578,1,"Silvey, Mrs. William Baird (Alice Munger)",female,Selamat
+579,0,"Caram, Mrs. Joseph (Maria Elias)",female,Meninggal
+580,1,"Jussila, Mr. Eiriik",male,Selamat
+581,1,"Christy, Miss. Julie Rachel",female,Selamat
+582,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,Selamat
+583,0,"Downton, Mr. William James",male,Meninggal
+584,0,"Ross, Mr. John Hugo",male,Meninggal
+585,0,"Paulner, Mr. Uscher",male,Meninggal
+586,1,"Taussig, Miss. Ruth",female,Selamat
+587,0,"Jarvis, Mr. John Denzil",male,Meninggal
+588,1,"Frolicher-Stehli, Mr. Maxmillian",male,Selamat
+589,0,"Gilinski, Mr. Eliezer",male,Meninggal
+590,0,"Murdlin, Mr. Joseph",male,Meninggal
+591,0,"Rintamaki, Mr. Matti",male,Meninggal
+592,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,Selamat
+593,0,"Elsbury, Mr. William James",male,Meninggal
+594,0,"Bourke, Miss. Mary",female,Meninggal
+595,0,"Chapman, Mr. John Henry",male,Meninggal
+596,0,"Van Impe, Mr. Jean Baptiste",male,Meninggal
+597,1,"Leitch, Miss. Jessie Wills",female,Selamat
+598,0,"Johnson, Mr. Alfred",male,Meninggal
+599,0,"Boulos, Mr. Hanna",male,Meninggal
+600,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,Selamat
+601,1,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,Selamat
+602,0,"Slabenoff, Mr. Petco",male,Meninggal
+603,0,"Harrington, Mr. Charles H",male,Meninggal
+604,0,"Torber, Mr. Ernst William",male,Meninggal
+605,1,"Homer, Mr. Harry (""Mr E Haven"")",male,Selamat
+606,0,"Lindell, Mr. Edvard Bengtsson",male,Meninggal
+607,0,"Karaic, Mr. Milan",male,Meninggal
+608,1,"Daniel, Mr. Robert Williams",male,Selamat
+609,1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,Selamat
+610,1,"Shutes, Miss. Elizabeth W",female,Selamat
+611,0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,Meninggal
+612,0,"Jardin, Mr. Jose Neto",male,Meninggal
+613,1,"Murphy, Miss. Margaret Jane",female,Selamat
+614,0,"Horgan, Mr. John",male,Meninggal
+615,0,"Brocklebank, Mr. William Alfred",male,Meninggal
+616,1,"Herman, Miss. Alice",female,Selamat
+617,0,"Danbom, Mr. Ernst Gilbert",male,Meninggal
+618,0,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,Meninggal
+619,1,"Becker, Miss. Marion Louise",female,Selamat
+620,0,"Gavey, Mr. Lawrence",male,Meninggal
+621,0,"Yasbeck, Mr. Antoni",male,Meninggal
+622,1,"Kimball, Mr. Edwin Nelson Jr",male,Selamat
+623,1,"Nakid, Mr. Sahid",male,Selamat
+624,0,"Hansen, Mr. Henry Damsgaard",male,Meninggal
+625,0,"Bowen, Mr. David John ""Dai""",male,Meninggal
+626,0,"Sutton, Mr. Frederick",male,Meninggal
+627,0,"Kirkland, Rev. Charles Leonard",male,Meninggal
+628,1,"Longley, Miss. Gretchen Fiske",female,Selamat
+629,0,"Bostandyeff, Mr. Guentcho",male,Meninggal
+630,0,"O'Connell, Mr. Patrick D",male,Meninggal
+631,1,"Barkworth, Mr. Algernon Henry Wilson",male,Selamat
+632,0,"Lundahl, Mr. Johan Svensson",male,Meninggal
+633,1,"Stahelin-Maeglin, Dr. Max",male,Selamat
+634,0,"Parr, Mr. William Henry Marsh",male,Meninggal
+635,0,"Skoog, Miss. Mabel",female,Meninggal
+636,1,"Davis, Miss. Mary",female,Selamat
+637,0,"Leinonen, Mr. Antti Gustaf",male,Meninggal
+638,0,"Collyer, Mr. Harvey",male,Meninggal
+639,0,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,Meninggal
+640,0,"Thorneycroft, Mr. Percival",male,Meninggal
+641,0,"Jensen, Mr. Hans Peder",male,Meninggal
+642,1,"Sagesser, Mlle. Emma",female,Selamat
+643,0,"Skoog, Miss. Margit Elizabeth",female,Meninggal
+644,1,"Foo, Mr. Choong",male,Selamat
+645,1,"Baclini, Miss. Eugenie",female,Selamat
+646,1,"Harper, Mr. Henry Sleeper",male,Selamat
+647,0,"Cor, Mr. Liudevit",male,Meninggal
+648,1,"Simonius-Blumer, Col. Oberst Alfons",male,Selamat
+649,0,"Willey, Mr. Edward",male,Meninggal
+650,1,"Stanley, Miss. Amy Zillah Elsie",female,Selamat
+651,0,"Mitkoff, Mr. Mito",male,Meninggal
+652,1,"Doling, Miss. Elsie",female,Selamat
+653,0,"Kalvik, Mr. Johannes Halvorsen",male,Meninggal
+654,1,"O'Leary, Miss. Hanora ""Norah""",female,Selamat
+655,0,"Hegarty, Miss. Hanora ""Nora""",female,Meninggal
+656,0,"Hickman, Mr. Leonard Mark",male,Meninggal
+657,0,"Radeff, Mr. Alexander",male,Meninggal
+658,0,"Bourke, Mrs. John (Catherine)",female,Meninggal
+659,0,"Eitemiller, Mr. George Floyd",male,Meninggal
+660,0,"Newell, Mr. Arthur Webster",male,Meninggal
+661,1,"Frauenthal, Dr. Henry William",male,Selamat
+662,0,"Badt, Mr. Mohamed",male,Meninggal
+663,0,"Colley, Mr. Edward Pomeroy",male,Meninggal
+664,0,"Coleff, Mr. Peju",male,Meninggal
+665,1,"Lindqvist, Mr. Eino William",male,Selamat
+666,0,"Hickman, Mr. Lewis",male,Meninggal
+667,0,"Butler, Mr. Reginald Fenton",male,Meninggal
+668,0,"Rommetvedt, Mr. Knud Paust",male,Meninggal
+669,0,"Cook, Mr. Jacob",male,Meninggal
+670,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,Selamat
+671,1,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,Selamat
+672,0,"Davidson, Mr. Thornton",male,Meninggal
+673,0,"Mitchell, Mr. Henry Michael",male,Meninggal
+674,1,"Wilhelms, Mr. Charles",male,Selamat
+675,0,"Watson, Mr. Ennis Hastings",male,Meninggal
+676,0,"Edvardsson, Mr. Gustaf Hjalmar",male,Meninggal
+677,0,"Sawyer, Mr. Frederick Charles",male,Meninggal
+678,1,"Turja, Miss. Anna Sofia",female,Selamat
+679,0,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,Meninggal
+680,1,"Cardeza, Mr. Thomas Drake Martinez",male,Selamat
+681,0,"Peters, Miss. Katie",female,Meninggal
+682,1,"Hassab, Mr. Hammad",male,Selamat
+683,0,"Olsvigen, Mr. Thor Anderson",male,Meninggal
+684,0,"Goodwin, Mr. Charles Edward",male,Meninggal
+685,0,"Brown, Mr. Thomas William Solomon",male,Meninggal
+686,0,"Laroche, Mr. Joseph Philippe Lemercier",male,Meninggal
+687,0,"Panula, Mr. Jaako Arnold",male,Meninggal
+688,0,"Dakic, Mr. Branko",male,Meninggal
+689,0,"Fischer, Mr. Eberhard Thelander",male,Meninggal
+690,1,"Madill, Miss. Georgette Alexandra",female,Selamat
+691,1,"Dick, Mr. Albert Adrian",male,Selamat
+692,1,"Karun, Miss. Manca",female,Selamat
+693,1,"Lam, Mr. Ali",male,Selamat
+694,0,"Saad, Mr. Khalil",male,Meninggal
+695,0,"Weir, Col. John",male,Meninggal
+696,0,"Chapman, Mr. Charles Henry",male,Meninggal
+697,0,"Kelly, Mr. James",male,Meninggal
+698,1,"Mullens, Miss. Katherine ""Katie""",female,Selamat
+699,0,"Thayer, Mr. John Borland",male,Meninggal
+700,0,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,Meninggal
+701,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,Selamat
+702,1,"Silverthorne, Mr. Spencer Victor",male,Selamat
+703,0,"Barbara, Miss. Saiide",female,Meninggal
+704,0,"Gallagher, Mr. Martin",male,Meninggal
+705,0,"Hansen, Mr. Henrik Juul",male,Meninggal
+706,0,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,Meninggal
+707,1,"Kelly, Mrs. Florence ""Fannie""",female,Selamat
+708,1,"Calderhead, Mr. Edward Pennington",male,Selamat
+709,1,"Cleaver, Miss. Alice",female,Selamat
+710,1,"Moubarek, Master. Halim Gonios (""William George"")",male,Selamat
+711,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,Selamat
+712,0,"Klaber, Mr. Herman",male,Meninggal
+713,1,"Taylor, Mr. Elmer Zebley",male,Selamat
+714,0,"Larsson, Mr. August Viktor",male,Meninggal
+715,0,"Greenberg, Mr. Samuel",male,Meninggal
+716,0,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,Meninggal
+717,1,"Endres, Miss. Caroline Louise",female,Selamat
+718,1,"Troutt, Miss. Edwina Celia ""Winnie""",female,Selamat
+719,0,"McEvoy, Mr. Michael",male,Meninggal
+720,0,"Johnson, Mr. Malkolm Joackim",male,Meninggal
+721,1,"Harper, Miss. Annie Jessie ""Nina""",female,Selamat
+722,0,"Jensen, Mr. Svend Lauritz",male,Meninggal
+723,0,"Gillespie, Mr. William Henry",male,Meninggal
+724,0,"Hodges, Mr. Henry Price",male,Meninggal
+725,1,"Chambers, Mr. Norman Campbell",male,Selamat
+726,0,"Oreskovic, Mr. Luka",male,Meninggal
+727,1,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,Selamat
+728,1,"Mannion, Miss. Margareth",female,Selamat
+729,0,"Bryhl, Mr. Kurt Arnold Gottfrid",male,Meninggal
+730,0,"Ilmakangas, Miss. Pieta Sofia",female,Meninggal
+731,1,"Allen, Miss. Elisabeth Walton",female,Selamat
+732,0,"Hassan, Mr. Houssein G N",male,Meninggal
+733,0,"Knight, Mr. Robert J",male,Meninggal
+734,0,"Berriman, Mr. William John",male,Meninggal
+735,0,"Troupiansky, Mr. Moses Aaron",male,Meninggal
+736,0,"Williams, Mr. Leslie",male,Meninggal
+737,0,"Ford, Mrs. Edward (Margaret Ann Watson)",female,Meninggal
+738,1,"Lesurer, Mr. Gustave J",male,Selamat
+739,0,"Ivanoff, Mr. Kanio",male,Meninggal
+740,0,"Nankoff, Mr. Minko",male,Meninggal
+741,1,"Hawksford, Mr. Walter James",male,Selamat
+742,0,"Cavendish, Mr. Tyrell William",male,Meninggal
+743,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,Selamat
+744,0,"McNamee, Mr. Neal",male,Meninggal
+745,1,"Stranden, Mr. Juho",male,Selamat
+746,0,"Crosby, Capt. Edward Gifford",male,Meninggal
+747,0,"Abbott, Mr. Rossmore Edward",male,Meninggal
+748,1,"Sinkkonen, Miss. Anna",female,Selamat
+749,0,"Marvin, Mr. Daniel Warner",male,Meninggal
+750,0,"Connaghton, Mr. Michael",male,Meninggal
+751,1,"Wells, Miss. Joan",female,Selamat
+752,1,"Moor, Master. Meier",male,Selamat
+753,0,"Vande Velde, Mr. Johannes Joseph",male,Meninggal
+754,0,"Jonkoff, Mr. Lalio",male,Meninggal
+755,1,"Herman, Mrs. Samuel (Jane Laver)",female,Selamat
+756,1,"Hamalainen, Master. Viljo",male,Selamat
+757,0,"Carlsson, Mr. August Sigfrid",male,Meninggal
+758,0,"Bailey, Mr. Percy Andrew",male,Meninggal
+759,0,"Theobald, Mr. Thomas Leonard",male,Meninggal
+760,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,Selamat
+761,0,"Garfirth, Mr. John",male,Meninggal
+762,0,"Nirva, Mr. Iisakki Antino Aijo",male,Meninggal
+763,1,"Barah, Mr. Hanna Assi",male,Selamat
+764,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,Selamat
+765,0,"Eklund, Mr. Hans Linus",male,Meninggal
+766,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,Selamat
+767,0,"Brewe, Dr. Arthur Jackson",male,Meninggal
+768,0,"Mangan, Miss. Mary",female,Meninggal
+769,0,"Moran, Mr. Daniel J",male,Meninggal
+770,0,"Gronnestad, Mr. Daniel Danielsen",male,Meninggal
+771,0,"Lievens, Mr. Rene Aime",male,Meninggal
+772,0,"Jensen, Mr. Niels Peder",male,Meninggal
+773,0,"Mack, Mrs. (Mary)",female,Meninggal
+774,0,"Elias, Mr. Dibo",male,Meninggal
+775,1,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,Selamat
+776,0,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,Meninggal
+777,0,"Tobin, Mr. Roger",male,Meninggal
+778,1,"Emanuel, Miss. Virginia Ethel",female,Selamat
+779,0,"Kilgannon, Mr. Thomas J",male,Meninggal
+780,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,Selamat
+781,1,"Ayoub, Miss. Banoura",female,Selamat
+782,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,Selamat
+783,0,"Long, Mr. Milton Clyde",male,Meninggal
+784,0,"Johnston, Mr. Andrew G",male,Meninggal
+785,0,"Ali, Mr. William",male,Meninggal
+786,0,"Harmer, Mr. Abraham (David Lishin)",male,Meninggal
+787,1,"Sjoblom, Miss. Anna Sofia",female,Selamat
+788,0,"Rice, Master. George Hugh",male,Meninggal
+789,1,"Dean, Master. Bertram Vere",male,Selamat
+790,0,"Guggenheim, Mr. Benjamin",male,Meninggal
+791,0,"Keane, Mr. Andrew ""Andy""",male,Meninggal
+792,0,"Gaskell, Mr. Alfred",male,Meninggal
+793,0,"Sage, Miss. Stella Anna",female,Meninggal
+794,0,"Hoyt, Mr. William Fisher",male,Meninggal
+795,0,"Dantcheff, Mr. Ristiu",male,Meninggal
+796,0,"Otter, Mr. Richard",male,Meninggal
+797,1,"Leader, Dr. Alice (Farnham)",female,Selamat
+798,1,"Osman, Mrs. Mara",female,Selamat
+799,0,"Ibrahim Shawah, Mr. Yousseff",male,Meninggal
+800,0,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,Meninggal
+801,0,"Ponesell, Mr. Martin",male,Meninggal
+802,1,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,Selamat
+803,1,"Carter, Master. William Thornton II",male,Selamat
+804,1,"Thomas, Master. Assad Alexander",male,Selamat
+805,1,"Hedman, Mr. Oskar Arvid",male,Selamat
+806,0,"Johansson, Mr. Karl Johan",male,Meninggal
+807,0,"Andrews, Mr. Thomas Jr",male,Meninggal
+808,0,"Pettersson, Miss. Ellen Natalia",female,Meninggal
+809,0,"Meyer, Mr. August",male,Meninggal
+810,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,Selamat
+811,0,"Alexander, Mr. William",male,Meninggal
+812,0,"Lester, Mr. James",male,Meninggal
+813,0,"Slemen, Mr. Richard James",male,Meninggal
+814,0,"Andersson, Miss. Ebba Iris Alfrida",female,Meninggal
+815,0,"Tomlin, Mr. Ernest Portage",male,Meninggal
+816,0,"Fry, Mr. Richard",male,Meninggal
+817,0,"Heininen, Miss. Wendla Maria",female,Meninggal
+818,0,"Mallet, Mr. Albert",male,Meninggal
+819,0,"Holm, Mr. John Fredrik Alexander",male,Meninggal
+820,0,"Skoog, Master. Karl Thorsten",male,Meninggal
+821,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,Selamat
+822,1,"Lulic, Mr. Nikola",male,Selamat
+823,0,"Reuchlin, Jonkheer. John George",male,Meninggal
+824,1,"Moor, Mrs. (Beila)",female,Selamat
+825,0,"Panula, Master. Urho Abraham",male,Meninggal
+826,0,"Flynn, Mr. John",male,Meninggal
+827,0,"Lam, Mr. Len",male,Meninggal
+828,1,"Mallet, Master. Andre",male,Selamat
+829,1,"McCormack, Mr. Thomas Joseph",male,Selamat
+830,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,Selamat
+831,1,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,Selamat
+832,1,"Richards, Master. George Sibley",male,Selamat
+833,0,"Saad, Mr. Amin",male,Meninggal
+834,0,"Augustsson, Mr. Albert",male,Meninggal
+835,0,"Allum, Mr. Owen George",male,Meninggal
+836,1,"Compton, Miss. Sara Rebecca",female,Selamat
+837,0,"Pasic, Mr. Jakob",male,Meninggal
+838,0,"Sirota, Mr. Maurice",male,Meninggal
+839,1,"Chip, Mr. Chang",male,Selamat
+840,1,"Marechal, Mr. Pierre",male,Selamat
+841,0,"Alhomaki, Mr. Ilmari Rudolf",male,Meninggal
+842,0,"Mudd, Mr. Thomas Charles",male,Meninggal
+843,1,"Serepeca, Miss. Augusta",female,Selamat
+844,0,"Lemberopolous, Mr. Peter L",male,Meninggal
+845,0,"Culumovic, Mr. Jeso",male,Meninggal
+846,0,"Abbing, Mr. Anthony",male,Meninggal
+847,0,"Sage, Mr. Douglas Bullen",male,Meninggal
+848,0,"Markoff, Mr. Marin",male,Meninggal
+849,0,"Harper, Rev. John",male,Meninggal
+850,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,Selamat
+851,0,"Andersson, Master. Sigvard Harald Elias",male,Meninggal
+852,0,"Svensson, Mr. Johan",male,Meninggal
+853,0,"Boulos, Miss. Nourelain",female,Meninggal
+854,1,"Lines, Miss. Mary Conover",female,Selamat
+855,0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,Meninggal
+856,1,"Aks, Mrs. Sam (Leah Rosen)",female,Selamat
+857,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,Selamat
+858,1,"Daly, Mr. Peter Denis ",male,Selamat
+859,1,"Baclini, Mrs. Solomon (Latifa Qurban)",female,Selamat
+860,0,"Razi, Mr. Raihed",male,Meninggal
+861,0,"Hansen, Mr. Claus Peter",male,Meninggal
+862,0,"Giles, Mr. Frederick Edward",male,Meninggal
+863,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,Selamat
+864,0,"Sage, Miss. Dorothy Edith ""Dolly""",female,Meninggal
+865,0,"Gill, Mr. John William",male,Meninggal
+866,1,"Bystrom, Mrs. (Karolina)",female,Selamat
+867,1,"Duran y More, Miss. Asuncion",female,Selamat
+868,0,"Roebling, Mr. Washington Augustus II",male,Meninggal
+869,0,"van Melkebeke, Mr. Philemon",male,Meninggal
+870,1,"Johnson, Master. Harold Theodor",male,Selamat
+871,0,"Balkic, Mr. Cerin",male,Meninggal
+872,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,Selamat
+873,0,"Carlsson, Mr. Frans Olof",male,Meninggal
+874,0,"Vander Cruyssen, Mr. Victor",male,Meninggal
+875,1,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,Selamat
+876,1,"Najib, Miss. Adele Kiamie ""Jane""",female,Selamat
+877,0,"Gustafsson, Mr. Alfred Ossian",male,Meninggal
+878,0,"Petroff, Mr. Nedelio",male,Meninggal
+879,0,"Laleff, Mr. Kristo",male,Meninggal
+880,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,Selamat
+881,1,"Shelley, Mrs. William (Imanita Parrish Hall)",female,Selamat
+882,0,"Markun, Mr. Johann",male,Meninggal
+883,0,"Dahlberg, Miss. Gerda Ulrika",female,Meninggal
+884,0,"Banfield, Mr. Frederick James",male,Meninggal
+885,0,"Sutehall, Mr. Henry Jr",male,Meninggal
+886,0,"Rice, Mrs. William (Margaret Norton)",female,Meninggal
+887,0,"Montvila, Rev. Juozas",male,Meninggal
+888,1,"Graham, Miss. Margaret Edith",female,Selamat
+889,0,"Johnston, Miss. Catherine Helen ""Carrie""",female,Meninggal
+890,1,"Behr, Mr. Karl Howell",male,Selamat
+891,0,"Dooley, Mr. Patrick",male,Meninggal
